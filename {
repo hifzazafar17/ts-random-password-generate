@@ -1,0 +1,9 @@
+npm i typescript -g
+
+npm init -y
+
+tsc --init
+
+npm i inquirer
+
+npm i @type/inquirer -D
